@@ -1,6 +1,6 @@
 # Qt5 Video Player
 
-![Screenshot](C:\Users\zeindevs\Documents\ZEN\CODING\project\qt5-video-player\images\screenshot.png)
+![Screenshot](.\images\screenshot.png)
 
 ## How to use (shortcut)
 
@@ -26,7 +26,7 @@ Click-Right (to open menu or info)
 
 - [ ] Configure Media Player Control
 
-- [ ]  Next Feature
+- [ ] Next Feature
 
 ## License
 
