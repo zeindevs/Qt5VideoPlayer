@@ -1,6 +1,6 @@
 # Qt5 Video Player
 
-![Screenshot](.\images\screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ## How to use (shortcut)
 
